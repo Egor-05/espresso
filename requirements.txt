@@ -1,0 +1,5 @@
+antiorm==1.2.1
+db==0.1.1
+db-sqlite3==0.0.1
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
